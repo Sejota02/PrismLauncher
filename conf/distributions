@@ -1,0 +1,8 @@
+Codename: jammy 
+Suite: stable
+Components: main 
+Architectures: i386 amd64 armhf arm64 
+SignWith: 945987BE9F0CDB618E748C73AEB6DC43EBCDA5E4
+Origin: PrismLauncher
+Label: PrismLaucher
+Description: Prism Launcher repository for Linux Mint Cinnamon (Ubuntu 22.04)
