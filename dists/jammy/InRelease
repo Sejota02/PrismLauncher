@@ -1,0 +1,66 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PrismLauncher
+Label: PrismLaucher
+Suite: stable
+Codename: jammy
+Date: Thu, 26 Mar 2026 22:41:43 UTC
+Architectures: i386 amd64 armhf arm64
+Components: main
+Description: Prism Launcher repository for Linux Mint Cinnamon (Ubuntu 22.04)
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ e03cfe7a6b1b2d3cf1aaf67639631c3c 171 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 9ce216d7240f8cee56e01270b88e156b 172 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 4a8e856c8c850ff6897cc498d8fa3138 172 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-arm64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-arm64/Packages.gz
+ 8b9bcfef1beda08b916a87a7cad01626 172 main/binary-arm64/Release
+SHA1:
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ b4c5114c26e08544d4b3a38f616811b097c911cc 171 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ f946f79738e8389c0ae9edb3773c5c0f7dc5c0d0 172 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ 1e6a147218f0e08cf9c9425065b9d824e282b174 172 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-arm64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-arm64/Packages.gz
+ 79f41c160918f97290e3eaa0f5973fa9f01974ac 172 main/binary-arm64/Release
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 1643a10cae183c34841b8d55701bdb6d25f34a5f662892d5427f772e90ad8d48 171 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 0448a9cf6f792ccc94dfeeb183672216b11241db43d492102eed6ac2f1db640c 172 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 30caf4bdd9bec48f424e5b4ec1c75340e63d91f6b6a9923f5d78b5d07e032c11 172 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-arm64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-arm64/Packages.gz
+ 291de15f6682298e21a78ae3dc61352cf562de6b18f4cfc10d02c68f2fce8f60 172 main/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEElFmHvp8M22GOdIxzrrbcQ+vNpeQFAmnFtjYACgkQrrbcQ+vN
+peQtnA//QfzkU+M9GEjs5cGHUzntWV3+4i7r83k8INXbQ6O3cdvlWzm4LYpz/Bg/
+eUNNlfdR4yj2i0FW9hZJDmCEBbgOQya92PgPJIrAgRsXr1D0ClipJ1ClUlhHrXzy
+JTG/k7T1lnOqhwi7Mz3wFra0nhSBnFFZ1mA7r4+qIZlkmp+4gAlnqDWdN+nlUGns
+WJliVdH2OQPkRPKGPvCEuvt7vfKh4skxEfMpnDAT5rmE7PAB5zDlpjEtpZf2WF1r
+0uMl88aMDFz8BKpkYiQDKUHLsMvhmu7rEuGIWdo/LbHFJBtXm8ZPourt6rNIi0Hx
+e2hBVHn69k2LauIhGaoiW/JKTMxyU8rTKELspmN89sfrcR2q5I2SCPDGsTAH28MK
+xTCGkJm4O8FYRbvC/2P3yVbDDE3kxPNdH9GbaZie8x2XLWF6+xMAfaOtEUuGVAKv
+xMLgaKWfHXswTjms2xjtd8X7tzzFHHEpgDIoXUwt7f41kb2glcY7gaRGWeXpLwr+
+xwbJ7voie9SbLyFzUcy4ivUrLSr7ZnsAHQG5StsZFkEZOgJnXHj9RvNHDzMyhwrv
+CJ426yAJvIwVpxyPqsEzuyhH4XaCg1ynyGRetNfq+gkGzY82vxFTTCbVNMua82YQ
+wlEo+VzZWxyRzSpWQ27+nihBExirOQCJs75Bw+P11qV6wzC5EQ0=
+=b7F+
+-----END PGP SIGNATURE-----

@@ -1,0 +1,5 @@
+Name: prismlauncher
+Method: https://github.com/Sejota02/PrismLauncher/releases/download/
+Suite: stable
+Components: main
+Architectures: i386 amd64 armhf arm64
